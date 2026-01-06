@@ -1,0 +1,1 @@
+This is a glowing block native to the Nether that is used to create the portal to the Aether.
