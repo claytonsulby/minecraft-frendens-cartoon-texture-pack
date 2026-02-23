@@ -1,6 +1,0 @@
-{
-  "pack": {
-    "pack_format": 1,
-    "description": "Union of all non-minecraft mod namespaces across .packs (aether_legacy, aether_legacy_addon, lost_aether, netherchest, netherex, omnis_aged_aether_blocks, totemexpansion)"
-  }
-}
