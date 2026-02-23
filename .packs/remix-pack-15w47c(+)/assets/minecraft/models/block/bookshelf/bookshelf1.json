@@ -1,8 +1,0 @@
-{
-    "parent": "block/bookshelf/bookshelf",
-    "textures": {
-        "end": "blocks/bookshelf/top",
-        "sidea": "blocks/bookshelf/bookshelf1",
-        "sideb": "blocks/bookshelf/bookshelf2"
-    }
-}

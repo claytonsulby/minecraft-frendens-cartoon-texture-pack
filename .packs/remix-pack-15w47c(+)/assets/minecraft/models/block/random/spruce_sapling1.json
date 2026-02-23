@@ -1,6 +1,0 @@
-{
-    "parent": "block/cross",
-    "textures": {
-        "cross": "blocks/random/sapling_spruce1"
-    }
-}

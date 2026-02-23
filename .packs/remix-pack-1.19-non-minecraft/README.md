@@ -1,0 +1,1 @@
+This contains custom textures not found in the original frenden packs. They are in frenden's style

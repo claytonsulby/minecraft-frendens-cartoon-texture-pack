@@ -1,6 +1,0 @@
-{
-    "parent": "block/cropflipped",
-    "textures": {
-        "crop": "blocks/random/potatoes_stage_3a"
-    }
-}

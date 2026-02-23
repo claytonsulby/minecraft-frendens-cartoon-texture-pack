@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_all_random",
-    "textures": {
-        "all": "blocks/stonebrick_mossy",
-        "random": "blocks/random/stonebrick_mossy1"
-    }
-}

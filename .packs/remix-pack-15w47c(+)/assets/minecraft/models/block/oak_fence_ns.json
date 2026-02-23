@@ -1,7 +1,0 @@
-{
-    "parent": "block/fence_ns",
-    "textures": {
-        "texture": "blocks/fences/fence",
-		"top": "blocks/fences/fence_top"
-    }
-}

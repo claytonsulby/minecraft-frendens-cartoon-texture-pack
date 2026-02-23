@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "normal": [
-            { "model": "red_mushroom" },
-            { "model": "random/red_mushroom1" },
-            { "model": "random/red_mushroom2" }
-        ]
-    }
-}

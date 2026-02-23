@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_all_random",
-    "textures": {
-        "all": "blocks/end_stone",
-        "random": "blocks/random/end_stone2"
-    }
-}

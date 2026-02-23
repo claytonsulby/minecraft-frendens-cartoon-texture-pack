@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "normal": [
-            { "model": "houstonia" },
-            { "model": "random/houstonia1" },
-            { "model": "random/houstonia2" }
-        ]
-    }
-}

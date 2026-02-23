@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_all_random",
-    "textures": {
-        "all": "blocks/dirt",
-        "random": "blocks/random/dirt5"
-    }
-}

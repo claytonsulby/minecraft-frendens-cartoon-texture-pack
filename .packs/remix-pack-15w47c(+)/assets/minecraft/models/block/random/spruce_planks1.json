@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_all_random",
-    "textures": {
-        "all": "blocks/planks_spruce",
-        "random": "blocks/random/planks_spruce1"
-    }
-}

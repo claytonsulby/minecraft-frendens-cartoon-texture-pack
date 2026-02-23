@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "normal": [
-            { "model": "orchid" },
-            { "model": "random/orchid1" },
-            { "model": "random/orchid2" }
-        ]
-    }
-}

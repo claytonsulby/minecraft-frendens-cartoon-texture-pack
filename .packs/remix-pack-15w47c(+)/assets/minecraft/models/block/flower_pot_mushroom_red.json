@@ -1,8 +1,0 @@
-{
-    "parent": "block/flower_pot_tree",
-    "textures": {
-        "flowerpot": "blocks/flower_pot_red_low",
-        "dirt": "blocks/dirt_podzol_top",
-        "plant": "blocks/mushroom_red"
-    }
-}
